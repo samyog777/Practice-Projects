@@ -27,8 +27,8 @@ import Github, { githubLoader } from "./Components/Github.jsx";
 //         path: "/about",
 //         element: <About />,
 //       },
-//       {
 //         path: "/contact",
+//       {
 //         element: <Contact />,
 //       },
 //     ],
